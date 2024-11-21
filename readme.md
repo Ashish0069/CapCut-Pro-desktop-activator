@@ -75,7 +75,7 @@
   "TRAIN_COACH": "SL",
   "TRAVEL_DATE": "22/11/2024",
   "SOURCE_STATION": "JYG",
-  "BOARDING_STATION": SKI, <-- Change to full station name if required, else leave null
+  "BOARDING_STATION": "SKI, <-- Change to full station name if required, else leave null
   "DESTINATION_STATION": "LTT",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
